@@ -1,5 +1,5 @@
 import styled from "styled-components";
-const defaultCover = "../public/no-cover.png";
+const defaultCover = "/no-cover.png";
 
 type Props = {
   title: string;
